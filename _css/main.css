@@ -1,0 +1,160 @@
+* {
+  margin:0px;
+  padding:0px;
+}
+#stuff{
+  width:75%
+}
+
+#header{
+  background-color:#191F58;
+  color:white;
+  font-family:agencyfb;
+  margin:16px;
+  padding:16px;
+  font-size:30px;
+  margin-bottom:0px;
+  border-radius:25px 25px 0px 0px;
+}
+#priceh2{
+  background-color:#191F58;
+  color:white;
+  font-size:30px;
+  font-family:agencyfb;
+  border-radius:25px 25px 0px 0px;
+  margin:16px;
+  padding:16px;
+}
+#price{
+  background-color:#7D82B0;
+  font-family:agencyfb;
+  color:white;
+  font-size:20px;
+  border-radius:0px 0px 25px 25px;
+  margin:16px;
+  padding:16px;
+}
+#price{
+  background-color:#7D82B0;
+  font-family:agencyfb;
+  color:white;
+  text-decoration:none;
+}
+#nav {
+    padding:10px 100px 10px 100px;
+    background-color:#7D82B0;
+    margin:16px;
+    margin-top:0px;
+    font-family:Arial;
+    color:white;
+    padding:16px;
+    text-decoration:none;
+    border-radius:0px 0px 25px 25px;
+    
+}
+#nav li{
+  display:inline;
+  margin-right:10px;
+  margin-top:0px;
+  color:white;
+}
+#leftya{
+  background-color:#080D3B;
+  color:white;
+  font-family:arial;
+  font-size:20px;
+  float:left;
+  margin:16px;
+  padding:40px 16px;
+  width:200px;
+}
+
+#leftyb{
+  background-color:#080D3B;
+  color:white;
+  font-family:arial;
+  font-size:20px;
+  float:left;
+  margin:16px;
+  padding:40px 16px;
+  width:200px;
+}
+
+h2{
+  font-size:40px;
+}
+#righty{
+  background-color:#080D3B;
+  color:white;
+  font-family:arial;
+  font-size:20px;
+  float:right;
+  margin:16px;
+  padding:40px 16px;
+  width:200px;
+}
+
+#footer{
+  background-color:#191F58;
+  color:white;
+  font-family:arial;
+  font-size:20px;
+  clear:both;
+  margin:16px;
+  padding:16px;
+  height:90px;
+  border-radius:25px;
+}
+#slideshow{
+  margin-left:80px;
+  margin-bottom:66px;
+}
+#indexcontact{
+  background-color:#7D82B0;
+  margin:16px;
+  margin-top:0px;
+  padding:16px;
+  border-radius:0px 0px 25px 25px;
+  color:white;
+}
+#subheading{
+  border-radius:25px 25px 0px 0px;
+  background-color:#191F58;
+  color:white;
+  margin:16px;
+  margin-bottom:0px;
+  padding:16px;
+}
+
+#bodystuff h2{
+  margin:16px 16px 0px 16px;
+  padding:16px;
+  background-color:#191F58;
+  color:white;
+  font-family:agencyfb;
+  border-radius:25px 25px 0px 0px;
+  margin-bottom:0px;
+  margin-top:76px;
+  clear:both;
+}
+#bodystuff p{
+  font-family:agencyfb;
+  color:white;
+  font-size:20px;
+  
+}
+
+p{
+  margin:16px;
+  background-color:#7D82B0;
+  color:white;
+  margin-top:0px;
+  font-size:16px;
+  padding:16px;
+  border-radius:0px 0px 25px 25px;
+}
+
+img{
+  float:left;
+  margin:20px;
+}
